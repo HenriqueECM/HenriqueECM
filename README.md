@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @HenriqueECM
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ : ...
+👋 Hi, I'm Henrique Menel (@HenriqueECM)
 
-<!---
-HenriqueECM/HenriqueECM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I'm passionate about learning new technologies and building a solid career in IT as a software engineer.
+- 🌱 Currently studying **Software Development** at **CentroWeg**.
+- 💻 I'm learning both **back-end** and **front-end**, focusing on languages like **Java** and **JavaScript**.
+- 🛠️ I work with technologies such as **HTML**, **CSS**, **JavaScript**, **Java**, and **MySQL**.
+- 🚀 I'm always looking to grow, improve my skills, and stay up to date with the latest in tech.
+- 💞️ Open to collaborating on projects that help me grow as a developer.
+- 🎮 In my free time, I enjoy playing **Formula 1** games and watching *One Piece.*
+- 😄 Pronouns: he/him
