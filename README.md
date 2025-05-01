@@ -4,7 +4,7 @@
 
 🧠 I'm interested in learning new technologies and building a solid career in IT as a software engineer.
  
-💼 Currently studying **Software Development** at **CentroWeg**.
+💼 Currently studying Systems Development at **CentroWeg**.
 
 💻 I'm learning both **back-end** and **front-end**, focusing on languages like **Java** and **JavaScript**.
  
