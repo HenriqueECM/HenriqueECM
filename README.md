@@ -1,6 +1,6 @@
 # Hi, I'm Henrique Menel 👋
 
-## About me: 
+### About me: 
 
 🧠 I'm interested in learning new technologies and building a solid career in IT as a software engineer.
  
