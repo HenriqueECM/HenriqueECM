@@ -2,16 +2,26 @@
 
 ## About me: 
 
-🧠 I'm interested in learning new technologies and building a solid career in IT as a software engineer.
+🧠 Estou interessado em buscar novos aprendizados e construir uma carreira sólida na área de TI
  
-💼 Currently studying Systems Development at **CentroWeg**.
+💼 Atualmente fazendo aprendiz de Desenvolvimento de Sistema do CentroWeg
 
-💻 I'm learning both **back-end** and **front-end**, focusing on languages like **Java** and **JavaScript**.
+💻 Estou aprendendo tanto back-end quanto front-end, com foco em linguagens como Java e JavaScript.
  
-🚀 I'm always looking to grow, improve my skills, and stay up to date with the latest in tech.
+🚀 Gosto de encarar desafios com dedicação e persistência. Tô sempre correndo atrás de melhorar, aprender coisas novas e evoluir junto com o ritmo acelerado da tecnologia.
  
-🎯 Open to collaborating on projects that help me grow as a developer.
+🎯 Aberto a colaborar em projetos que me ajudem a crescer como desenvolvedor.
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueECM&show_icons=true&theme=transparent)
+<div align="start">
+  <a href="https://github.com/HenriqueECM">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueECM&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  </a>
+  &nbsp;&nbsp;&nbsp; <!-- espaçamento entre as imagens -->
+  <a href="https://github.com/HenriqueECM">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueECM&layout=compact&langs_count=6&theme=dark" />
+  </a>
+</div>
+
+## ⚙️ Tecnologias & Ferramentas: 
