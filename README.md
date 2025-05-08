@@ -40,6 +40,8 @@
   &nbsp;
   <img align="center" alt="henrique-mySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   &nbsp;
+  <img align="center" alt="henrique-flutter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  &nbsp;
   <img align="center" alt="henrique-dart" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>
   &nbsp;
   <img align="center" alt="henrique-vs" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
