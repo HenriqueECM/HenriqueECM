@@ -34,8 +34,6 @@
   &nbsp;
   <img align="center" alt="henrique-TS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   &nbsp;
-  <img align="center" alt="henrique-C++" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-  &nbsp;
   <img align="center" alt="henrique-JAVA" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   &nbsp;
   <img align="center" alt="henrique-mySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
