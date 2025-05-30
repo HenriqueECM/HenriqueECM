@@ -20,7 +20,7 @@
   </a>
   &nbsp;&nbsp;&nbsp; <!-- espaçamento entre as imagens -->
   <a href="https://github.com/HenriqueECM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueECM&layout=compact&langs_count=8&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueECM&layout=compact&langs_count=7&theme=dark" />
   </a>
 </div>
 
