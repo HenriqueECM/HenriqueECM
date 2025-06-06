@@ -26,9 +26,10 @@
 
 ## ⚙️ Tecnologias & Ferramentas: 
 <div align="start">
-  <img align="center" alt="henrique-CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  &nbsp;
+ 
   <img align="center" alt="henrique-HTML" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  &nbsp;
+  <img align="center" alt="henrique-CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   &nbsp;
   <img align="center" alt="henrique-JS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   &nbsp;
