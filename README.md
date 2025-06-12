@@ -1,6 +1,6 @@
 # Hi, I'm Henrique Menel 👋
 
-## About me: 
+## Sobre mim: 
 
 🧠 Estou interessado em buscar novos aprendizados e construir uma carreira sólida na área de TI
  
