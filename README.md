@@ -26,25 +26,9 @@
 
 ## ⚙️ Tecnologias & Ferramentas
 
-### Front-end (Web)
-<div align="start">
-  <img alt="HTML" title="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  &nbsp;
-  <img alt="CSS" title="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  &nbsp;
-  <img alt="JavaScript" title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  &nbsp;
-  <img alt="TypeScript" title="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-</div>
-
 ### Mobile
 <div align="start">
   <img alt="Dart" title="Dart" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>
-</div>
-
-### Back-end
-<div align="start">
-  <img alt="Java" title="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 </div>
 
 ### Banco de Dados
@@ -53,6 +37,25 @@
   &nbsp;
   <img alt="Supabase" title="Supabase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
 </div>
+
+### Back-end
+<div align="start">
+  <img alt="Java" title="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+ &nbsp;
+  <img alt="TypeScript" title="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+</div>
+
+### Front-end
+<div align="start">
+  <img alt="HTML" title="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  &nbsp;
+  <img alt="CSS" title="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  &nbsp;
+  <img alt="JavaScript" title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  
+</div>
+
+
 
 ### Frameworks
 <div align="start">
