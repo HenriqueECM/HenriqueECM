@@ -80,5 +80,3 @@ Aqui estão alguns projetos que desenvolvi e estou orgulhoso de compartilhar:
 
 - 📱 [Catálogo de Produtos em Flutter](https://github.com/HenriqueECM/CatalogoProduto_flutter.git) – Aplicativo simples para exibir uma lista de produtos com interface moderna.
 - 🎮 [Jogo da Velha em Flutter](https://github.com/HenriqueECM/jogoDaVelha_flutter.git) – Um clássico jogo da velha desenvolvido com Dart e Flutter.
-
----
