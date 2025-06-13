@@ -83,5 +83,8 @@ Aqui estão alguns projetos que desenvolvi e estou orgulhoso de compartilhar:
 
 ### 🎯 Aberto a colaborar em projetos que me ajudem a crescer como desenvolvedor.
 
----
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
