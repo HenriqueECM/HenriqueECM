@@ -7,8 +7,6 @@
 💻 Estou aprendendo tanto back-end quanto front-end, com foco em linguagens como Java e JavaScript.
  
 🚀 Gosto de encarar desafios com dedicação e persistência. Tô sempre correndo atrás de melhorar, aprender coisas novas e evoluir junto com o ritmo acelerado da tecnologia.
- 
-🎯 Aberto a colaborar em projetos que me ajudem a crescer como desenvolvedor.
 
 ---
 
@@ -80,3 +78,10 @@ Aqui estão alguns projetos que desenvolvi e estou orgulhoso de compartilhar:
 
 - 📱 [Catálogo de Produtos em Flutter](https://github.com/HenriqueECM/CatalogoProduto_flutter.git) – Aplicativo simples para exibir uma lista de produtos com interface moderna.
 - 🎮 [Jogo da Velha em Flutter](https://github.com/HenriqueECM/jogoDaVelha_flutter.git) – Um clássico jogo da velha desenvolvido com Dart e Flutter.
+
+---
+
+### 🎯 Aberto a colaborar em projetos que me ajudem a crescer como desenvolvedor.
+
+---
+
