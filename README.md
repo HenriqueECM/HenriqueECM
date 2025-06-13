@@ -85,6 +85,6 @@ Aqui estão alguns projetos que desenvolvi e estou orgulhoso de compartilhar:
 - 🎮 [Jogo da Velha em Flutter](https://github.com/HenriqueECM/jogoDaVelha_flutter.git) – Um clássico jogo da velha desenvolvido com Dart e Flutter.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueECM/HenriqueECM/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HenriqueECM/HenriqueECM/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueECM/HenriqueECM/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HenriqueECM/HenriqueECM/output/github-snake.svg" />
 </picture>
