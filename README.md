@@ -2,13 +2,13 @@
 
 ## Sobre mim: 
 
-### 💼 Atualmente fazendo aprendiz de Desenvolvimento de Sistema do CentroWeg
+💼 Atualmente fazendo aprendiz de Desenvolvimento de Sistema do CentroWeg
 
-### 💻 Estou aprendendo tanto back-end quanto front-end, com foco em linguagens como Java e JavaScript.
+💻 Estou aprendendo tanto back-end quanto front-end, com foco em linguagens como Java e JavaScript.
  
-### 🚀 Gosto de encarar desafios com dedicação e persistência. Tô sempre correndo atrás de melhorar, aprender coisas novas e evoluir junto com o ritmo acelerado da tecnologia.
+🚀 Gosto de encarar desafios com dedicação e persistência. Tô sempre correndo atrás de melhorar, aprender coisas novas e evoluir junto com o ritmo acelerado da tecnologia.
  
-### 🎯 Aberto a colaborar em projetos que me ajudem a crescer como desenvolvedor.
+🎯 Aberto a colaborar em projetos que me ajudem a crescer como desenvolvedor.
 
 ---
 
@@ -22,7 +22,11 @@
   </a>
 </div>
 
-## ⚙️ Tecnologias & Ferramentas: 
+---
+
+## ⚙️ Tecnologias & Ferramentas
+
+### Front-end
 <div align="start">
   <img alt="HTML" title="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   &nbsp;
@@ -32,22 +36,32 @@
   &nbsp;
   <img alt="TypeScript" title="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   &nbsp;
-  <img alt="Java" title="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  &nbsp;
-  <img alt="Dart" title="Dart" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>
-  &nbsp;
   <img alt="Flutter" title="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
   &nbsp;
+  <img alt="Dart" title="Dart" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>
+</div>
+
+### Back-end
+<div align="start">
+  <img alt="Java" title="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+</div>
+
+### Banco de Dados
+<div align="start">
   <img alt="MySQL" title="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   &nbsp;
   <img alt="Supabase" title="Supabase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
-  &nbsp;
+</div>
+
+### IDE & Ferramentas
+<div align="start">
   <img alt="VSCode" title="Visual Studio Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   &nbsp;
   <img alt="Eclipse" title="Eclipse" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>
   &nbsp;
   <img alt="Jira" title="Jira" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
 </div>
+
 
 ---
 
