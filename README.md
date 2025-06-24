@@ -73,6 +73,8 @@
   <img alt="Eclipse" title="Eclipse" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>
   &nbsp;
   <img alt="Jira" title="Jira" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"/>
+  &nbsp;
+  <img alt="intellij" title="intellij" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 </div>
 
 ---
