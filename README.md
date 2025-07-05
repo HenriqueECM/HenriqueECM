@@ -55,8 +55,6 @@
   
 </div>
 
-
-
 ### Frameworks
 <div align="start">
   <img alt="Flutter" title="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
