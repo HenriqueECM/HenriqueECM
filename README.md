@@ -40,7 +40,7 @@
 
 ### 🛠️ Ferramentas e IDEs
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,github)](https://skillicons.dev)
 
 ---
 
