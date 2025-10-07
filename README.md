@@ -32,7 +32,7 @@
 
 ### ⚙️ Back-end
 
-[![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,spring)](https://skillicons.dev)
 
 ### 🛢️ Banco de Dados
 
