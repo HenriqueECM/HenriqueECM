@@ -4,11 +4,11 @@
 
 💼 Atualmente fazendo aprendiz de Desenvolvimento de Sistema do CentroWeg
 
-💻 Estou aprendendo tanto back-end quanto front-end, com foco em linguagens como Java e JavaScript.
- 
-🚀 Gosto de encarar desafios com dedicação e persistência. Tô sempre correndo atrás de melhorar, aprender coisas novas e evoluir junto com o ritmo acelerado da tecnologia.
+💻 Focado em back-end, principalmente com Java e Spring Boot, desenvolvendo APIs, integrações e sistemas conectados a bancos de dados.
 
-🎯 Aberto a colaborar em projetos que me ajudem a crescer como desenvolvedor.
+🧠 Tenho também conhecimentos em front-end, utilizando HTML, CSS, JavaScript e frameworks modernos como Next.js e Flutter, o que me ajuda a compreender o ciclo completo de uma aplicação.
+
+🚀 Gosto de encarar desafios com dedicação e persistência. Tô sempre correndo atrás de melhorar, buscando sempre aprender novas tecnologias para evoluir como desenvolvedor.
 
 ---
 
