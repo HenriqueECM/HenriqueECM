@@ -2,7 +2,7 @@
 
 ## Sobre mim: 
 
-💼 Atualmente fazendo aprendiz de Desenvolvimento de Sistema do CentroWeg
+💼 Atualmente trabalhando como desenvolvedor Full-Stack na WEG
 
 💻 Focado em back-end, principalmente com Java e Spring Boot, desenvolvendo APIs, integrações e sistemas conectados a bancos de dados.
 
