@@ -12,18 +12,6 @@
 
 ---
 
-<div align="start">
-  <a href="https://github.com/HenriqueECM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueECM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/HenriqueECM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueECM&layout=compact&langs_count=6&theme=dark" />
-  </a>
-</div>
-
----
-
 ## ⚙️ Tecnologias & Ferramentas
 
 ### 🧩 Front-end
